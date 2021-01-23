@@ -1,4 +1,4 @@
-# project-tv-script-generation
+# TV script generation project
 
 TV script generation using RNN following Udacity's Deep Learning Course (Lesson 4 of Recurrent Neural Networks).
 
